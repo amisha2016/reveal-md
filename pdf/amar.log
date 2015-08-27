@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.7)  27 AUG 2015 13:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.7)  27 AUG 2015 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -140,39 +140,71 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
-) (./amar.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyheadings.sty
+Package: fancyheadings 2008/02/04 1.99 Dummy package to call fancyhdr
+
+
+Package fancyheadings Warning: Please stop using fancyheadings!
+(fancyheadings)                Use fancyhdr instead.
+(fancyheadings)                We will call fancyhdr with the very same
+(fancyheadings)                options you passed to fancyheadings.
+(fancyheadings)                
+(fancyheadings)                fancyhdr is 99 percent compatible with
+(fancyheadings)                fancyheadings. The only incompatibility is
+(fancyheadings)                that \headrulewidth and \footrulewidth and
+(fancyheadings)                their \plain... versions are no longer length
+(fancyheadings)                parameters, but normal macros (to be changed
+(fancyheadings)                with \renewcommand rather than \setlength)..
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+))
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 15.
+
+(./amar.aux)
 \openout1 = `amar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=556.47656pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=-13.87262pt
+* h-part:(L,W,R)=(108.405pt, 380.69788pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 664.37186pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=380.69788pt
+* \textheight=664.37186pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -250,27 +282,36 @@ e
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Chapter 1.
 <0.png, id=8, 383.93437pt x 297.36093pt>
 File: 0.png Graphic file (type png)
  <use 0.png>
-Package pdftex.def Info: 0.png used on input line 45.
+Package pdftex.def Info: 0.png used on input line 56.
 (pdftex.def)             Requested size: 191.9667pt x 148.6801pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 75.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
- [2 <./0.png>]
-<5.png, id=21, 477.28313pt x 426.09187pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <./0.png>] <5.png, id=21, 477.28313pt x 426.09187pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
-Package pdftex.def Info: 5.png used on input line 115.
+Package pdftex.def Info: 5.png used on input line 126.
 (pdftex.def)             Requested size: 238.64098pt x 213.04541pt.
 
 
@@ -278,20 +319,20 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3] [4 <./5.png>] (./amar.aux) ) 
 Here is how much of TeX's memory you used:
- 2614 strings out of 493834
- 35550 string characters out of 6154319
- 102427 words of memory out of 5000000
- 5874 multiletter control sequences out of 15000+600000
- 9626 words of font info for 35 fonts, out of 8000000 for 9000
+ 2747 strings out of 493834
+ 37114 string characters out of 6154319
+ 105486 words of memory out of 5000000
+ 6000 multiletter control sequences out of 15000+600000
+ 10232 words of font info for 37 fonts, out of 8000000 for 9000
  798 hyphenation exceptions out of 8191
- 37i,6n,23p,397b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,10n,45p,397b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on amar.pdf (5 pages, 272880 bytes).
+Output written on amar.pdf (5 pages, 273344 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
