@@ -24,7 +24,20 @@ the stability of structure consisting of many stories.
 
 >###*Basic concept of what it do
 
-These are *fixed* port which work either as input or output port only and there function cannot be changed and its example is Intel 8212
+Structural analysis is mainly concerned with finding out the behavior of a physical structure when subjected to force. This action can be in the form of load due to the weight of things or some other kind of excitation such as an earthquake, shaking of the ground due to a blast nearby, etc
+
+----
+
+
+>###modes
+
+![dsfksj](0.png)
+
+A modal analysis calculates the frequency modes or natural frequencies of a given system. The natural frequency of a system is dependent only on the stiffness of the structure and the mass which participates with the structure (including self-weight).
+
+---
+
+![dxsfksj](1.png)
 
 ---
 
