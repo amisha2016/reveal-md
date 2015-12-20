@@ -22,7 +22,7 @@ the stability of structure consisting of many stories.
 
 ----
 
->###*Basic concept of what it do
+>### Basic concepts of what it do
 
 Structural analysis is mainly concerned with finding out the behavior of a physical structure when subjected to force. This action can be in the form of load due to the weight of things or some other kind of excitation such as an earthquake, shaking of the ground due to a blast nearby, etc
 
@@ -35,7 +35,7 @@ Structural analysis is mainly concerned with finding out the behavior of a physi
 
 A modal analysis calculates the frequency modes or natural frequencies of a given system. The natural frequency of a system is dependent only on the stiffness of the structure and the mass which participates with the structure (including self-weight).
 
----
+----
 
 ![dxsfksj](1.png)
 
@@ -56,11 +56,11 @@ A modal analysis calculates the frequency modes or natural frequencies of a give
 ---
 
 >###TECHNOLOGY USED -:
-1. Sagemath
-2. Django
-3. LaTeX
-4. Doxygen
-5. Git
+<p class="fragment grow">1. Sagemath </p>
+<p class="fragment grow">2. Django </p>
+<p class="fragment grow">3. LaTeX</p>
+<p class="fragment grow">4. Doxygen</p>
+<p class="fragment grow">5. Git</p>
 
 
 ----
@@ -77,8 +77,8 @@ combinatorics, numerical mathematics, number theory, and calculus.
 
 Django is an open source web application framework written in python. It lets you build high-
 performing, elegant Web applications quickly. Django focuses on automating as much as possible.
-Django adopts the standard MVC (Model-View-Controller) design pattern. But instead, their
-naming convention is the MTV (Model-Template-View)
+Django adopts the standard MVC (Model \- View \- Controller) design pattern. But instead, their
+naming convention is the MTV (Model \- Template \- View)
 
 ----
 
@@ -104,7 +104,8 @@ actual code.
 Git is a distributed revision control and source code management (SCM) system with an emphases on speed, data integrity, and support for distributed, non-linear work flows.
 
 ---
- 
+
+
  
 >###Implementation
 
@@ -152,6 +153,16 @@ interrupted request of user can be restart and send PDF.
 • Phase VI (Documentation) -:
 During final phase, we documented the project( developers documentation and README.md)
 using doxygen and wrote the report for this software. 
+
+---
+
+>## Link to DoS -:
+
+http://lab.gdy.club:8088/
+
+>##link to Documentation
+
+http://lab.gdy.club:~amarjeet/DEV_Documentation/developer_documentaion.html
 
 ---
 
